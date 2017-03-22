@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PureFShape", "PureFShape\PureFShape\PureFShape.fsproj", "{128789E2-7857-48A8-B2E2-2E7FA84922BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128789E2-7857-48A8-B2E2-2E7FA84922BE}.Debug|x86.ActiveCfg = Debug|x86
+		{128789E2-7857-48A8-B2E2-2E7FA84922BE}.Debug|x86.Build.0 = Debug|x86
+		{128789E2-7857-48A8-B2E2-2E7FA84922BE}.Release|x86.ActiveCfg = Release|x86
+		{128789E2-7857-48A8-B2E2-2E7FA84922BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
